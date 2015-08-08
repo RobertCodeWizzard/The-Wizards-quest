@@ -1,0 +1,8 @@
+#game-container{
+	border: solid 5px black;
+	width: 400px;
+	height: 400px;
+}
+#heading-container{
+	background-color: red;
+}
